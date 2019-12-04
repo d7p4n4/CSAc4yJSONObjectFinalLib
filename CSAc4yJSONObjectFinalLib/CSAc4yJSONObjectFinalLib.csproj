@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.2019.1203.1</Version>
+    <Authors>Ac4y</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CSGUIDLib" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
